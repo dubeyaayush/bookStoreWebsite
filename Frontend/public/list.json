@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name":"Drama",
+        "title":"Explore our drama section, where captivating stories and compelling characters bring powerful emotions and unforgettable moments to life.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1720546486~exp=1720550086~hmac=f75555be23dd9d7556fca2f2c7bc016e18d5368dcc699225616b00004b7406cc&w=740"
+    },
+    {
+        "id":2,
+        "name":"Comedy",
+        "title":"Dive into our comedy section for a hearty laugh with hilarious tales and witty narratives that promise endless fun. Read now for free!",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1720546486~exp=1720550086~hmac=f75555be23dd9d7556fca2f2c7bc016e18d5368dcc699225616b00004b7406cc&w=740"
+    },
+    {
+        "id":3,
+        "name":"Adventure",
+        "title":"Embark on thrilling journeys with our adventure books, where daring exploits and epic quests await your discovery. Read now for free!",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1720546486~exp=1720550086~hmac=f75555be23dd9d7556fca2f2c7bc016e18d5368dcc699225616b00004b7406cc&w=740"
+    },
+    {
+        "id":4,
+        "name":"Romance",
+        "title":"Indulge in our romance section, filled with heartwarming love stories and passionate tales that will sweep you off your feet.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1720546486~exp=1720550086~hmac=f75555be23dd9d7556fca2f2c7bc016e18d5368dcc699225616b00004b7406cc&w=740"
+    },
+    {
+        "id":5,
+        "name":"Fantasy",
+        "title":"Enter magical realms with our fantasy books, where fantastical creatures and enchanting worlds ignite your imagination.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1720546486~exp=1720550086~hmac=f75555be23dd9d7556fca2f2c7bc016e18d5368dcc699225616b00004b7406cc&w=740"
+    },
+    {
+        "id":6,
+        "name":"Crime",
+        "title":"Uncover the truth with our crime books, featuring gripping mysteries and intricate plots that keep you on the edge of your seat.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1720546486~exp=1720550086~hmac=f75555be23dd9d7556fca2f2c7bc016e18d5368dcc699225616b00004b7406cc&w=740"
+    },
+    {
+        "id":7,
+        "name":"Sci-Fi",
+        "title":"Journey through the cosmos with our sci-fi collection, where futuristic worlds and advanced technologies create mind-bending adventures.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1720546486~exp=1720550086~hmac=f75555be23dd9d7556fca2f2c7bc016e18d5368dcc699225616b00004b7406cc&w=740"
+    },
+    {
+        "id":8,
+        "name":"Thriller",
+        "title":"Experience the adrenaline rush with our thriller section, packed with intense suspense and unexpected twists.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1720546486~exp=1720550086~hmac=f75555be23dd9d7556fca2f2c7bc016e18d5368dcc699225616b00004b7406cc&w=740"
+    },
+    {
+        "id":9,
+        "name":"Horror",
+        "title":"Brave the spine-chilling tales in our horror section, where terrifying encounters and eerie atmospheres will haunt your dreams.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1720546486~exp=1720550086~hmac=f75555be23dd9d7556fca2f2c7bc016e18d5368dcc699225616b00004b7406cc&w=740"
+    }
+]
