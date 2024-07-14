@@ -28,7 +28,7 @@ const Banner = () => {
             <input type="email" className="grow" placeholder="Enter your Email" />
           </label>
         </div>
-        <button className="btn btn-secondary mt-6">Secondary</button>
+        <button className="btn btn-secondary mt-6">Get Started</button>
       </div>
       <div className="order-1 md:order-2 w-full md: w-0.5">
         <img src={img} className="w-92 h-92 dark:bg-slate-900 dark:text-white" alt="" />
